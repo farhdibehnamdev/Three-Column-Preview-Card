@@ -67,12 +67,11 @@ button {
   font-size: 19px;
   border-style: none;
   box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
-  transition: all 0.3s ease 0s;
-  margin-bottom: 15px;
 }
 .button-sedans {
   color: #e28525;
 }
+
 .button-suns {
   color: #016972;
 }
@@ -81,5 +80,8 @@ button {
 }
 button:hover {
   cursor: pointer;
-  background-color: #fff;
+  background-color: none;
+  background: none;
+  border: 3px solid #d3d1d1;
+  color: #f2f2f2;
 }
