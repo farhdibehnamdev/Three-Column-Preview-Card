@@ -1,4 +1,4 @@
-# Order summary card template
+# Three Column Preivew Card Component
 
 The [Three Column Preview Card](https://farhdibehnamdev.github.io/Order-Summery-Card/) is designed to practice and explore basic HTML and CSS.
 
