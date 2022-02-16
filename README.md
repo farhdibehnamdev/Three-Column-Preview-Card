@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./orderSummery.jpg)
+![](./3-Columns-Preview-Card.jpg)
 
 ### Links
 
