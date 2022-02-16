@@ -16,7 +16,7 @@ body {
   font-family: "guanabara-sans-4-3", sans-serif;
 }
 .container {
-  margin: 100px auto;
+  margin-top: 100px;
   min-width: 1000px;
   display: flex;
   justify-content: center;
