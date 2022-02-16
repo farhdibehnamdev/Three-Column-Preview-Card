@@ -1,0 +1,53 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f2f2f2;
+}
+.container {
+  overflow: hidden;
+  margin: 200px auto;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sedans {
+  background-color: #e28525;
+  padding: 30px;
+  border-radius: 10px 0 0 10px;
+  flex: 0 1 300px;
+}
+
+.suvs {
+  background-color: #016972;
+  padding: 30px;
+  flex: 0 0 auto;
+}
+
+.luxury {
+  background-color: #00403f;
+  padding: 30px;
+  border-radius: 0 10px 10px 0;
+  flex: 0 0 auto;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 20px;
+  border-radius: 25px;
+  font-size: 14px;
+  font-weight: bold;
+}
