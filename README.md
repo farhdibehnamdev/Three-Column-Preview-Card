@@ -1,6 +1,6 @@
 # Three Column Preivew Card Component
 
-The [Three Column Preview Card](https://farhdibehnamdev.github.io/Order-Summery-Card/) is designed to practice and explore basic HTML and CSS.
+The [Three Column Preview Card](https://farhdibehnamdev.github.io/Three-Column-Preview-Card/) is designed to practice and explore basic HTML and CSS.
 
 The template is a guide meant for you to explore and change to ✨*make it your own*✨
 
@@ -30,11 +30,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./3-Columns-Preview-Card.jpg)
+![](./3-Columns-Preview-Card.png)
 
 ### Links
 
-- Live Site URL: [Three Column Preview Card](https://farhdibehnamdev.github.io/Order-Summery-Card/)
+- Live Site URL: [Three Column Preview Card](https://farhdibehnamdev.github.io/Three-Column-Preview-Card/)
 
 ## My process
 
